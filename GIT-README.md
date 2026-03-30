@@ -4,7 +4,7 @@
 
 -Git → Local version control system (tracks code changes)
 
-     → Git is a free and open-source distributed version control system (DVCS) designed to manage changes to files, especially source code, over time
+→ Git is a free and open-source distributed version control system (DVCS) designed to manage changes to files, especially source code, over time
 
 # 🔹 1. Setup & Config
 
@@ -48,7 +48,7 @@
 
 -git branch -d feature    ----- # Delete branch
 
-        👉 New (recommended):
+ 👉 New (recommended):
 
 -git switch feature
 
@@ -122,7 +122,7 @@
 
 -git checkout -b feature
 
-   " make changes"
+  " make changes "
 
 -git add .
 
