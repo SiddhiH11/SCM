@@ -3,6 +3,7 @@
 # 🔹 What is Git?
 
 -Git → Local version control system (tracks code changes)
+
      → Git is a free and open-source distributed version control system (DVCS) designed to manage changes to files, especially source code, over time
 
 # 🔹 1. Setup & Config
