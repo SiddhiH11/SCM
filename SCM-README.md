@@ -2,7 +2,7 @@
 
 Source Code Management (SCM) is the practice of tracking, managing, and controlling changes to source code over time. It helps developers collaborate, maintain history, and avoid conflicts when working on the same project.
 
-# 🔹What is SCM?
+## 🔹What is SCM?
 
 SCM allows you to:
 
@@ -14,7 +14,7 @@ SCM allows you to:
 
 -Manage different versions using branches
 
-# 🔹SCM Workflow (Simple)
+## 🔹SCM Workflow (Simple)
 
 -Developer writes code
 
@@ -26,7 +26,7 @@ SCM allows you to:
 
 -Team pulls latest code (git pull)
 
-# 🔹Popular SCM Tools
+## 🔹Popular SCM Tools
 
 Here are widely used tools:
 
