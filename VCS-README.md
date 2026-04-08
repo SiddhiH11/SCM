@@ -2,7 +2,7 @@
 
 A Version Control System (VCS) is a tool that helps developers track, manage, and store changes to code over time. It allows multiple people to work on the same project without conflicts and makes it easy to revert to previous versions if needed.
 
-# 🔹Why use Version Control?
+## 🔹Why use Version Control?
 
 -Keeps history of all code changes
 
@@ -14,15 +14,15 @@ A Version Control System (VCS) is a tool that helps developers track, manage, an
 
 -Improves project organization
 
-# 🔹Types of Version Control Systems
+## 🔹Types of Version Control Systems
 
-# 1. Local Version Control System
+### 1. Local Version Control System
 
 -Stores versions on a local machine
 
 -Example: simple file backups
 
-# 2. Centralized Version Control System (CVCS)
+### 2. Centralized Version Control System (CVCS)
 
 -One central server stores all versions
 
@@ -30,7 +30,7 @@ A Version Control System (VCS) is a tool that helps developers track, manage, an
 
 👉 Drawback: If server fails, work can be lost
 
-# 3. Distributed Version Control System (DVCS)
+### 3. Distributed Version Control System (DVCS)
 
 -Every developer has a full copy of the repository
 
@@ -40,7 +40,7 @@ A Version Control System (VCS) is a tool that helps developers track, manage, an
 
 👉 Most widely used today
 
-# 🔹 Key Concepts in VCS
+## 🔹 Key Concepts in VCS
 
 -Repository (Repo): Storage for project files and history
 
