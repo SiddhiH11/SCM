@@ -42,14 +42,14 @@ A Version Control System (VCS) is a tool that helps developers track, manage, an
 
 ## 🔹 Key Concepts in VCS
 
--Repository (Repo): Storage for project files and history
+-**Repository** (Repo): Storage for project files and history
 
--Commit: Save changes with a message
+-**Commit**: Save changes with a message
 
--Branch: Separate line of development
+-**Branch**: Separate line of development
 
--Merge: Combine changes from branches
+-**Merge**: Combine changes from branches
 
--Clone: Copy a repository
+-**Clone**: Copy a repository
 
--Pull/Push: Sync changes with remote repo
+-**Pull/Push**: Sync changes with remote repo
